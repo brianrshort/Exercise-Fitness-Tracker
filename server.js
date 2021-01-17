@@ -52,7 +52,7 @@ app.use(require("./routes/html-routes.js"));
 
 //Start our server
 app.listen(PORT, () => {
-  console.log(`Is your app running on ${PORT}? Then you better go catch it!`);
+  console.log(`Is your app running on Port ${PORT}? Then you better go catch it!`);
 });
 
 
