@@ -147,7 +147,7 @@ function populateChart(data) {
     options: {
       title: {
         display: true,
-        text: 'Exercises by Duration',
+        text: 'Exercises Performed',
       },
     },
   });
@@ -167,7 +167,7 @@ function populateChart(data) {
     options: {
       title: {
         display: true,
-        text: 'Exercises by Weight',
+        text: 'Exercises Performed',
       },
     },
   });
