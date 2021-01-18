@@ -26,15 +26,6 @@ app.use(express.json());
 app.use(express.static("public"));
 
 //Uniform Resource Identifier info for Mongoose.connect
-//const URI = process.env.MONGODB_URI || "mongodb://localhost/workout"
-
-//Info to Mongoose ODM connection
-// mongoose.connect(URI, {
-//   useUnifiedTopology: true,
-//   useNewUrlParser: true,
-//   useFindAndModify: false
-// });
-
 mongoose.connect(
   process.env.MONGODB_URI || 'mongodb://localhost/workout',
   {
