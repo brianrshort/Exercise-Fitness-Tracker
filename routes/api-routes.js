@@ -47,8 +47,8 @@ router.get("/api/workouts/all", (req, res) => {
 router.get("/api/workouts/range", ({ query }, res) => {
   Workout.find({ day: {$gte: new Date(new Date().setDate(new Date().getDate()-7)), $lte: new Date()}})
     .then(dbWorkouts => {
-      console.log(dbWorkouts);
-      console.log("in range");
+      //console.log(dbWorkouts);
+      //console.log("in range");
       res.json(dbWorkouts);
     })
     .catch(err => {
