@@ -10,8 +10,7 @@ Click on the deployed link (link -- https://floating-spire-56790.herokuapp.com/)
 
 # Screenshot
 
-![Screenshot of user input](https://brianrshort.github.io/exercise-fitness-tracker/assets/screenshot1.jpg)
-
+![Screenshot of user input](https://github.com/brianrshort/exercise-fitness-tracker/blob/main/assets/screenshot1.jpg?raw=true)
 
 # Technologies Use
 JavaScript, NodeJS, NoSQL, MongoDB, Mongoose
