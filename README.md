@@ -10,7 +10,7 @@ Click on the deployed link (link -- https://floating-spire-56790.herokuapp.com/)
 
 # Screenshot
 
-![Screenshot of user input](https://brianrshort.github.io/exercise-fitness-tracker/Assets/screenshot1.jpg)
+![Screenshot of user input](https://brianrshort.github.io/exercise-fitness-tracker/assets/screenshot1.jpg)
 
 
 # Technologies Use
